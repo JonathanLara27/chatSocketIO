@@ -1,0 +1,47 @@
+  /* Login Page */
+
+  .login.page {
+      background-color: #2a3942;
+  }
+
+  .login.page .form .usernameInput {
+      border-bottom: 2px solid #fff;
+  }
+
+  .login.page .title,
+  .login.page .usernameInput {
+      color: #fff;
+  }
+
+
+  /* Chat page */
+
+  /* Font */
+  .messages {
+      background-color: #2a3942;
+      color: #fff;
+  }
+
+  .log {
+      color: white;
+  }
+
+  .message.typing .messageBody {
+      color: white;
+  }
+
+  /* Input */
+
+  .inputMessage {
+      background-color: #2a3942;
+      color: #fff;
+      border: 5px solid #000;
+  }
+
+  .inputMessage::placeholder {
+      color: #fff;
+  }
+
+  .nombretema{
+    color: #fff;
+  }

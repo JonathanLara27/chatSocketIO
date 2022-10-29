@@ -1,0 +1,46 @@
+  /* Login Page */
+
+  .login.page {
+    background-color:rgb(235, 235, 235);
+}
+
+.login.page .form .usernameInput {
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+.login.page .title,
+.login.page .usernameInput {
+    color: rgb(0, 0, 0);
+}
+
+
+/* Chat page */
+
+/* Font */
+.messages {
+    background-color: rgb(235, 235, 235);
+    color: rgb(0, 0, 0);
+}
+
+.log {
+    color: gray;
+}
+
+.message.typing .messageBody {
+    color: gray;
+}
+
+/* Input */
+
+.inputMessage {
+    border: 5px solid #000;
+    background-color: rgb(235, 235, 235);
+}
+
+.inputMessage::placeholder {
+    color: #000;
+}
+
+.nombretema{
+    color: rgb(0, 0, 0);
+}
